@@ -1,7 +1,6 @@
 Shell Script For Attacking Wireless Connections Using Built-In Kali Tools. Supports All Securities (WEP, WPS, WPA, WPA2)
 
-
-[![Donate](https://img.shields.io/badge/Donate-Now-00C3F7?style=flat-square)](https://paystack.shop/pay/bd-mutant7)
+[![Support](https://img.shields.io/badge/Support-Paystack-00C3F7?style=for-the-badge&logo=paypal&logoColor=white)](https://paystack.shop/pay/bd-mutant7)
 
 
 
